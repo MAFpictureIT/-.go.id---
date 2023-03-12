@@ -454,7 +454,7 @@ ul.btn li:last-child {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header_full_banner {
-     background: url (banner.jpg);
+     background: url ("banner.jpg");
      background-repeat: no-repeat;
      width: auto;
      height: auto;
