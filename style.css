@@ -454,7 +454,7 @@ ul.btn li:last-child {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header_full_banner {
-     background: url ("https://firebasestorage.googleapis.com/v0/b/rambateratahayo-mafpictureit.appspot.com/o/banner.jpg?alt=media&token=5bdf1ed1-d20e-43dd-8a4d-0a8408346828");
+     background: url (https://firebasestorage.googleapis.com/v0/b/rambateratahayo-mafpictureit.appspot.com/o/banner.jpg?alt=media&token=5bdf1ed1-d20e-43dd-8a4d-0a8408346828);
      background-repeat: no-repeat;
      width: auto;
      height: auto;
